@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PH2ST
 ## PH2ST: ST-Prompt Guided Histological Hypergraph Learning for Spatial Gene Expression in Whole Slide Images
 
