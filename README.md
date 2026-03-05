@@ -34,3 +34,17 @@ To evaluate the model:
 python src/main.py --config_name=<config_path> --mode=eval
 ```
 
+## BibTex
+We would be honored if our work could be of assistance to you. 
+Your citations and stars of this repository are greatly appreciated.
+
+```bash
+@article{niu2026ph2st,
+  title={PH2ST: Prompt-Guided Hypergraph Learning for Spatial Transcriptomics Prediction in Whole Slide Images},
+  author={Niu, Yi and Liu, Jiashuai and Zhan, Yingkang and Shi, Jiangbo and Zhang, Di and Reinius, Marika and Machado, Ines and Crispin-Ortuzar, Mireia and Wu, Jialun and Li, Chen and others},
+  journal={Medical Image Analysis},
+  pages={104008},
+  year={2026},
+  publisher={Elsevier}
+}
+```
