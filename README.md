@@ -1,5 +1,5 @@
 # PH2ST
-## PH2ST: ST-Prompt Guided Histological Hypergraph Learning for Spatial Gene Expression in Whole Slide Images
+## PH2ST: Prompt-guided hypergraph learning for spatial transcriptomics prediction in whole slide images 
 
 ![Overview of PAMIL](./overview/ov.png)
 
@@ -33,3 +33,4 @@ To evaluate the model:
 ```bash
 python src/main.py --config_name=<config_path> --mode=eval
 ```
+
